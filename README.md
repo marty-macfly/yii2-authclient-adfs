@@ -5,11 +5,11 @@ Adfs client for yii2-authclient
 Through Composer
 From console:
 ```
-composer require brainsrage/yii2-authclient-instagram
+composer require macfly/yii2-authclient-adfs
 ```
 or add to "require" section to composer.json
 ```
-"brainsrage/yii2-authclient-instagram": "dev-master"
+"macfly/yii2-authclient-adfs": "*"
 ```
 ##Usage
 Set up Oauth2 single sign-on on Active Directory with ADFS.
