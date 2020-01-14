@@ -11,7 +11,7 @@ or add to "require" section to composer.json
 ```
 "macfly/yii2-authclient-adfs": "*"
 ```
-##Usage
+## Usage
 Set up Oauth2 single sign-on on Active Directory with ADFS.
 And add the AdfsOauth2 client to your auth clients.
 
